@@ -60,6 +60,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+ * [NullSec Tools](https://github.com/bad-antics/nullsec-tools) - Professional security toolkit with Python, Go, Rust, and C tools for penetration testing, OSINT, hash cracking, network analysis, and more.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
  * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
